@@ -1,0 +1,21 @@
+{
+  "subject": {
+    "fullName": "Bill DePhillips",
+    "address": {
+      "streetAddress": "1333 Gough St.",
+      "unit": "Apt Z",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "postalCode": "94109"
+    },
+    "daytimePhone": "212 555-1234"
+  },
+
+  "identities": {
+    "linkedIn": "https://www.linkedin.com/pub/bill-dephillips/9/b72/575",
+    "github": "rearadmiral",
+    "twitter": "wdephillips"
+
+  }
+}
