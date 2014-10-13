@@ -1,15 +1,16 @@
 {
   "subject": {
-    "fullName": "Bill DePhillips",
+    "fullName": "Billiam Q. DePhillips",
     "address": {
       "streetAddress": "123 Main St.",
       "unit": "Apt Z",
       "city": "San Francisco",
       "state": "CA",
       "country": "USA",
-      "postalCode": "94109"
+      "postalCode": "94104"
     },
-    "daytimePhone": "212 555-1234"
+    "daytimePhone": "415.555.1234",
+    "email": "bill@example.com"
   },
 
   "identities": {
