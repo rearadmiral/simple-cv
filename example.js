@@ -1,6 +1,6 @@
-{
+simpleCvExample = {
   "subject": {
-    "fullName": "Billiam Q. DePhillips",
+    "name": "Billiam Q. DePhillips",
     "address": {
       "streetAddress": "123 Main St.",
       "unit": "Apt Z",
