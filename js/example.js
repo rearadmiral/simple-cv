@@ -10,14 +10,13 @@ simpleCvExample = {
       "postalCode": "94104"
     },
     "daytimePhone": "415.555.1234",
-    "email": "bill@example.com"
-  },
-
-  "identities": {
-    "linkedIn": "https://www.linkedin.com/pub/bill-dephillips/9/b72/575",
-    "github": "rearadmiral",
-    "twitter": "wdephillips",
-    "blog": "http://dephillipsdesign.com"
+    "email": "bill@dephillipsdesign.com",
+    "identities": {
+      "linkedIn": "bill-dephillips/9/b72/575",
+      "github": "rearadmiral",
+      "twitter": "wdephillips",
+      "blog": "http://dephillipsdesign.com"
+    }
   },
 
   "portfolio": {
@@ -34,18 +33,6 @@ simpleCvExample = {
         "date": "June 2014",
         "slidesUrl": "http://bit.ly/YvJbR3",
         "videoUrl": null
-      }
-    ],
-    "extracurriculars": [
-      {
-        "organization": {
-          "name": "Railsbridge",
-          "website": "http://railsbridge.org"
-        },
-        "involvement": {
-          "role": "Volunteer Teacher and Event Organizer",
-          "description": "Community-run open-source workshops teaching Rails to women and their friends."
-        }
       }
     ]
   },
@@ -90,6 +77,19 @@ simpleCvExample = {
     }
 
 
+  ],
+
+  "extracurriculars": [
+    {
+      "organization": {
+        "name": "Railsbridge",
+        "website": "http://railsbridge.org"
+      },
+      "involvement": {
+        "role": "Volunteer Teacher and Event Organizer",
+        "description": "Community-run open-source workshops teaching Rails to women and their friends."
+      }
+    }
   ],
 
   "educationHistory": [
